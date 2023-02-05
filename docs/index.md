@@ -1,6 +1,6 @@
-# Home
+# 主页
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+学术工具
 
 ## Commands
 
